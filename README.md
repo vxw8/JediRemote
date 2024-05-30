@@ -18,4 +18,5 @@ __Roboflow Dataset__: https://app.roboflow.com/workspace-m7ft3/jedi-remote/deplo
 4) Open up the model code, go to File->Examples->Test_inferencing->nano_ble_sense->nano_ble_sense_camera
    <img src="https://github.com/vxw8/JediRemote/blob/main/Screenshot%202024-05-29%20223350.png" width="600" height="600">
 
-5) 
+5) Compile and upload code
+6) Click on serial monitor to see predicted gestures
