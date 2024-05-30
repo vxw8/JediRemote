@@ -16,11 +16,11 @@ __Roboflow Dataset__: https://app.roboflow.com/workspace-m7ft3/jedi-remote/deplo
 1) Install Arduino IDE, if not done so already including necessary libraries to use Arduino OV7675 camera
 2) Download model.zip file from the repository
 3) To add model library to Arduino IDE, go to Sketch->Include Library->Add .ZIP Library->model.zip
-4) Open up the model code, go to File->Examples->Test_inferencing->nano_ble_sense->nano_ble_sense_camera
+    <img src="https://github.com/vxw8/JediRemote/blob/main/Screenshot%202024-05-30%20140922.png" width="600" height="600">
+5) Open up the model code, go to File->Examples->Test_inferencing->nano_ble_sense->nano_ble_sense_camera
    <img src="https://github.com/vxw8/JediRemote/blob/main/Screenshot%202024-05-29%20223350.png" width="600" height="600">
-
-5) Compile and upload code
-6) Click on serial monitor to see predicted gestures
+6) Compile and upload code
+7) Click on serial monitor to see predicted gestures
 
 ## Model Evaluation
 <img src="https://github.com/vxw8/JediRemote/blob/main/image.png" width="700" height="500">
