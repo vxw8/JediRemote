@@ -16,6 +16,6 @@ __Roboflow Dataset__: https://app.roboflow.com/workspace-m7ft3/jedi-remote/deplo
 2) Download model.zip file from the repository
 3) To add model library to Arduino IDE, go to Sketch->Include Library->Add .ZIP Library->model.zip
 4) Open up the model code, go to File->Examples->Test_inferencing->nano_ble_sense->nano_ble_sense_camera
-   <img src="" width="100" height="100">
+   <img src="https://github.com/vxw8/JediRemote/blob/main/Screenshot%202024-05-29%20223350.png" width="600" height="600">
 
 5) 
