@@ -20,3 +20,6 @@ __Roboflow Dataset__: https://app.roboflow.com/workspace-m7ft3/jedi-remote/deplo
 
 5) Compile and upload code
 6) Click on serial monitor to see predicted gestures
+
+## Model Evaluation
+<img src="https://github.com/vxw8/JediRemote/blob/main/image.png" width="700" height="500">
