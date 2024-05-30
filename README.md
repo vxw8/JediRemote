@@ -1,5 +1,5 @@
 # JediRemote
- <img src="https://github.com/vxw8/JediRemote/blob/main/Screenshot%202024-05-29%20230445.png" width="1000" height="500">
+ <img src="https://github.com/vxw8/JediRemote/blob/main/Screenshot%202024-05-29%20230445.png" width="1200" height="500">
 
 ## “Control your TV with the Force!”
 Jedi Remote is like a TV remote, except using a camera and only your hands. It uses a camera to capture and determine your gesture using visual processing. It currently recognizes six different hand gestures that correlate to the functions up, down, left, right, select, and return. When the camera detects one of the gestures, the screen reacts correspondingly. Jedi Remote eliminates the need for a physical remote, no need to stress over lost tv remotes.
